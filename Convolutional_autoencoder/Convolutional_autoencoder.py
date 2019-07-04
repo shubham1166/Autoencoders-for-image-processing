@@ -3,7 +3,7 @@ Created on May 20, 2019
 
 This is an example of COnvolutional autoencoder. We have used Keras library and Keras functional API
 
-@author: T01130
+@author: Shubham sharma
 '''
 
 from keras.layers import Input, Dense, Conv2D, MaxPooling2D, UpSampling2D, BatchNormalization, Activation, Dropout,concatenate,Conv2DTranspose
