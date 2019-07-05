@@ -60,7 +60,7 @@ Variational autoencoder is a generative kind of autoencoder. The main idea of a 
 A denoising autoencoder simply corrupts the input data using a probabilistic process before feeding it to the network. The out remains same as the noise free data. This helps the autoencoder to learn to remove noise from the data.
 
 
-**![](https://lh4.googleusercontent.com/3M7OZ5v4uicxmLsb-iWZOyCTgCYZjFR38AmMCJtKucXVHAmHcT-KWfeQb9nI0dETZFJuQBPE4TJDPWDYsZdSFlKYKPmehapzRdJQgzxiPC9fwh-wky74Pc1o6MYNdwBxdnff_5Ty)**\
+**![](https://lh4.googleusercontent.com/3M7OZ5v4uicxmLsb-iWZOyCTgCYZjFR38AmMCJtKucXVHAmHcT-KWfeQb9nI0dETZFJuQBPE4TJDPWDYsZdSFlKYKPmehapzRdJQgzxiPC9fwh-wky74Pc1o6MYNdwBxdnff_5Ty)**
 
 
 ---
