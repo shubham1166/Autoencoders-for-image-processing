@@ -59,9 +59,10 @@ We use convolutional autoencoders in case of images. It can be used for anomaly 
 
 Variational autoencoder is a generative kind of autoencoder. The main idea of a variational autoencoder is to add some noise in the encoded output of encoder and then see the results that we get from that noise latent variable. Below is the image with some glance of how variational autoencoder behaves. Also this a good resource for further details of [variational autoencoder](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
+![](https://lh5.googleusercontent.com/q4pI93116bI1PZIfICJz_N8V2g81NTeLFvIKVrmbkdmIgQdvFcPc7NLpkmoXqqpa25kHy_AUg_94_SYckUQSXq2vgR28xiHc5W9ipH5mZGcJfloVVgPM8xlVtjckJ-kDtmQhe-1i)**
 
-![Animated GIF](https://media.giphy.com/media/26ufgj5LH3YKO1Zlu/giphy.gif)
-**Source**:[blog](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+
+
 
 ---
 ## Denoising autoencoder
@@ -70,8 +71,7 @@ A denoising autoencoder simply corrupts the input data using a probabilistic pro
 
 
 
-**![](https://lh4.googleusercontent.com/3M7OZ5v4uicxmLsb-iWZOyCTgCYZjFR38AmMCJtKucXVHAmHcT-KWfeQb9nI0dETZFJuQBPE4TJDPWDYsZdSFlKYKPmehapzRdJQgzxiPC9fwh-wky74Pc1o6MYNdwBxdnff_5Ty)**
-**Source**:google
+**![](https://lh6.googleusercontent.com/rv6Ddm5bKPvAo2aKM3i4UtApRD5omqVC5heLksrTj9EYqAu2X-zAm7uEcVBF40GUditOJDVMSd22rHw7nwONBQBTdtL19NmCUIQdfx4Bm_qtQWXWpzwXWBa2pMVh0EVeAk5rAEmG)**
 
 ---
 ## Contractive autoencoder
